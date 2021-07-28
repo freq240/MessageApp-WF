@@ -1,0 +1,6 @@
+067755992;0675302276;Hello, it is my new message;
+062312312;0654645646;Hello it is my second message;
+065234234;0675465465;0654645654;Hello it is mailing message;
+065234234;0654654654;0523523525;Hello it is again the forth message;
+061231231;3123123123;5234523523;5235234234;lovs;
+052231323;3123123123;It should be the longest messange in this file;

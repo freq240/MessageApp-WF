@@ -1,0 +1,37 @@
+[SMS-MESSAGE] Sender number : 067755992
+[SMS-MESSAGE] Recepient number : 0675302276
+[SMS-MESSAGE] Text of message : tik[SMS-MESSAGE] Sender number : 062312312
+[SMS-MESSAGE] Recepient number : 0654645646
+[SMS-MESSAGE] Text of message : Hello it is my second message[SMS-MAILING] Sender number : 065234234
+[SMS-MAILING] Recepient number 1: 0675465465
+[SMS-MAILING] Recepient number 2 : 0654645654
+[SMS-MAILING] Recepient number 3 : Unknown
+[SMS-MAILING] Text of message : Hello it is mailing message[SMS-MAILING] Sender number : 065234234
+[SMS-MAILING] Recepient number 1: 0654654654
+[SMS-MAILING] Recepient number 2 : 0523523525
+[SMS-MAILING] Recepient number 3 : Unknown
+[SMS-MAILING] Text of message : Hello it is again the forth message[SMS-MAILING] Sender number : 061231231
+[SMS-MAILING] Recepient number 1: 3123123123
+[SMS-MAILING] Recepient number 2 : 5234523523
+[SMS-MAILING] Recepient number 3 : 5235234234
+[SMS-MAILING] Text of message : lovs[SMS-MESSAGE] Sender number : 052231323
+[SMS-MESSAGE] Recepient number : 3123123123
+[SMS-MESSAGE] Text of message : It should be the longest messange in this filest messange in this file[SMS-MESSAGE] Sender number : 12312312
+[SMS-MESSAGE] Recepient number : 312321312
+[SMS-MESSAGE] Text of message : 312312312[SMS-MESSAGE] Sender number : 12312312
+[SMS-MESSAGE] Recepient number : 312321312
+[SMS-MESSAGE] Text of message : 31231231223123
+[SMS-MESSAGE] Text of message : It should be the longest messange in this fileMS-MAILING] Recepient number 1: 0675465465
+[SMS-MAILING] Recepient number 2 : 0654645654
+[SMS-MAILING] Recepient number 3 : Unknown
+[SMS-MAILING] Text of message : Hello it is mailing message[SMS-MAILING] Sender number : 065234234
+[SMS-MAILING] Recepient number 1: 0654654654
+[SMS-MAILING] Recepient number 2 : 0523523525
+[SMS-MAILING] Recepient number 3 : Unknown
+[SMS-MAILING] Text of message : Hello it is again the forth message[SMS-MAILING] Sender number : 061231231
+[SMS-MAILING] Recepient number 1: 3123123123
+[SMS-MAILING] Recepient number 2 : 5234523523
+[SMS-MAILING] Recepient number 3 : 5235234234
+[SMS-MAILING] Text of message : lovs[SMS-MESSAGE] Sender number : 052231323
+[SMS-MESSAGE] Recepient number : 3123123123
+[SMS-MESSAGE] Text of message : It should be the longest messange in this file
